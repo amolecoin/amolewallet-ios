@@ -1,4 +1,4 @@
-[![AmoleWallet](/images/top-logo.jpg)](https://www.amolewallet.com)
+
 
 ## The easy and secure AmoleCoin wallet
 
@@ -16,7 +16,6 @@ Unlike other iOS crypto wallets, **AmoleWallet** is a standalone AmoleCoin clien
 
 Simplicity and ease-of-use is **AmoleWallet**'s core design principle. A simple recovery phrase (which we call a paper key) is all that is needed to restore the user's wallet if they ever lose or replace their device. **AmoleWallet** is [deterministic](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki), which means the user's balance and transaction history can be recovered just from the paper key.
 
-[![screenshots](/images/screenshots.jpg)](https://www.amolewallet.com)
 
 ### Features
 
